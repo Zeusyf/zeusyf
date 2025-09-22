@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/zeusyf">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&pause=900&color=00FF9C&center=true&vCenter=true&width=1200&height=140&lines=zeusyf,+Senior+Blockchain+Engineer;10%2B+Years+Crypto+%26+Network+Expert;Smart+Contract+Auditor+%26+Infrastructure+Architect;Resilience+%26+Scale+Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&pause=900&color=00FF9C&center=true&vCenter=true&width=1200&height=140&lines=ZEUSYF,+Senior+Blockchain+Engineer;10%2B+Years+Crypto+%26+Network+Expert;Smart+Contract+Auditor+%26+Infrastructure+Architect;Resilience+%26+Scale+Specialist" alt="Typing SVG" />
   </a>
 </p>
 
